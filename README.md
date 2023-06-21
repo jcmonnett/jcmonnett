@@ -4,10 +4,10 @@
 <h1 align="center">𝗔𝗕𝗢𝗨𝗧 𝗠𝗘</h1>
 
 <ul>
-🔭 I’m currently working on Intune Management and Deployment.
-🌱 I’m currently learning React and Microsoft DevOps.
-🤔 I’m looking for help with learning more in Software Engineering and Microsoft DevOps
-💬 Ask me about where I have been! :)
+<li>🔭 I’m currently working on Intune Management and Deployment.</li>
+<li>🌱 I’m currently learning React and Microsoft DevOps.</li>
+<li>🤔 I’m looking for help with learning more in Software Engineering and Microsoft DevOps</li>
+<li>💬 Ask me about where I have been! :)</li>
 </ul>
 
 <br>
