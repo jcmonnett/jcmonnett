@@ -23,6 +23,7 @@
     <img style="margin: 5px" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="Github" height="30" />  
     <img style="margin: 5px" src="https://img.shields.io/badge/-Google-4285F4?style=flat-square&logo=Google&logoColor=white" alt="Google" height="30" />  
     <img style="margin: 5px" src="https://img.shields.io/badge/-Microsoft_Azure-0089D6?style=flat-square&logo=Microsoft-Azure&logoColor=white" alt="Azure" height="30" />  
+    <img style="margin: 5px" src="https://img.shields.io/badge/-Microsoft_Intune-0089D6?style=flat-square&logo=Microsoft-Intune&logoColor=white" alt="Intune" height="30" />
     <img style="margin: 5px" src="https://img.shields.io/badge/-Microsoft_Exchange-0078D4?style=flat-square&logo=Microsoft-Exchange&logoColor=white" alt="Exchange" height="30" />  
     <img style="margin: 5px" src="https://img.shields.io/badge/-Microsoft_OneDrive-0078D4?style=flat-square&logo=Microsoft-OneDrive&logoColor=white" alt="OneDrive" height="30" />  
     <img style="margin: 5px" src="https://img.shields.io/badge/-Microsoft_Outlook-0078D4?style=flat-square&logo=Microsoft-Outlook&logoColor=white" alt="Outlook" height="30" />  
@@ -34,6 +35,7 @@
     <img style="margin: 5px" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React" height="30" />
     <img style="margin: 5px" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="Javascript" height="30" />
     <img style="margin: 5px" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" height="30" />
+    <img style="margin: 5px" src="https://img.shields.io/badge/-Python-F7DF1E?style=flat-square&logo=python&logoColor=white" alt="Python" height="30" />
   </p>
 
   <img style="margin: 5px" src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="Associate" height="100" />
